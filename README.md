@@ -7,7 +7,7 @@ I'm a Blockchain engineer with 10 + years of hands-on experience designing, deve
 
 <br />
 
-blowfish support ticket: 6147
+---
 
 <br />
 
