@@ -6,7 +6,7 @@
 I'm a Blockchain engineer with 10 + years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
 <br />
-
+<img src="https://github-readme-stats.vercel.app/api?username=dawar2151&show_icons=true&theme=cobalt" />
 ---
 
 <br />
